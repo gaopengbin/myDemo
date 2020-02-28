@@ -1,0 +1,23 @@
+{
+  "id": "1653132",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4766253",
+      "name": "check-square",
+      "font_class": "check-square",
+      "unicode": "e7a8",
+      "unicode_decimal": 59304
+    },
+    {
+      "icon_id": "4766265",
+      "name": "border",
+      "font_class": "border",
+      "unicode": "e7a9",
+      "unicode_decimal": 59305
+    }
+  ]
+}
