@@ -14,6 +14,6 @@ export default {
 .home {
   width: 200px;
   height: 200px;
-  background-color: red;
+  background-color: rgb(24, 7, 65);
 }
 </style>
